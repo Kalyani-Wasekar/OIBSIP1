@@ -1,6 +1,6 @@
 <b>
-Name:- Kalyani Wasekar<b><br>
-Position:- Data Science Intern<b><br>
-Company:- Oasis Infobyte<b><br>
-Domain:- Data Science<b><br>
-Task:- Iris Flower Classification using python<b><br>
+Name:-<b> Kalyani Wasekar<br>
+Position:-<b></b>Data Science Intern<br>
+Company:-<b></b> Oasis Infobyte<br>
+Domain:-<b></b> Data Science<br>
+Task:-<b></b> Iris Flower Classification using python<br>
